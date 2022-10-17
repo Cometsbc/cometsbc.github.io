@@ -1,7 +1,7 @@
 # Site settings
 title: Comets Badminton Club 
 email: cometsbc@outlook.com
-tagline:  Comets is based in hertfordshire and the largest club around! It covers St Albans and Hatfield area.
+tagline:  Comets is based in hertfordshire. It covers St Albans and Hatfield area.
 description: > 
   Welcome to comets Badminton Club # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
