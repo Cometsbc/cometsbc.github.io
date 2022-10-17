@@ -1,8 +1,8 @@
 # Site settings
 title: Comets Badminton Club 
 email: cometsbc@outlook.com
-tagline:  Comets Badminton Club is based in hertfordshire nearby St Albans and Hatfield area.
-description: A friendly and competitive club
+tagline: Based in St Albans and Hatfield area.
+description: A friendly and competitive club, one of the largest and most successful clubs in hertfordshire.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
